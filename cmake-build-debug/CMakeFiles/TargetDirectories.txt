@@ -1,0 +1,3 @@
+/home/admin/ProjectRStudio/GNU-R-QI/cmake-build-debug/CMakeFiles/GNU_R_QI.dir
+/home/admin/ProjectRStudio/GNU-R-QI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin/ProjectRStudio/GNU-R-QI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
